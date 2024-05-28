@@ -1,5 +1,3 @@
-﻿using System.Linq;
-
 namespace SortArray
 {
     internal class Program
